@@ -1,0 +1,15 @@
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\bin\Debug\net6.0\mod022_.md.exe
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\bin\Debug\net6.0\mod022_.md.deps.json
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\bin\Debug\net6.0\mod022_.md.runtimeconfig.json
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\bin\Debug\net6.0\mod022_.md.dll
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\bin\Debug\net6.0\mod022_.md.pdb
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.csproj.AssemblyReference.cache
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.AssemblyInfoInputs.cache
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.AssemblyInfo.cs
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.csproj.CoreCompileInputs.cache
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.dll
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\refint\mod022_.md.dll
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.pdb
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\mod022_.md.genruntimeconfig.cache
+C:\Users\Gamelife\Desktop\Задачи\mod022_.md\obj\Debug\net6.0\ref\mod022_.md.dll

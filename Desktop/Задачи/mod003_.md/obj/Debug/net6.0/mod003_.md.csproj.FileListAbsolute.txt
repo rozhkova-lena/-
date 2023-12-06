@@ -1,0 +1,5 @@
+C:\Users\Gamelife\Desktop\задачи\mod003_.md\obj\Debug\net6.0\mod003_.md.csproj.AssemblyReference.cache
+C:\Users\Gamelife\Desktop\задачи\mod003_.md\obj\Debug\net6.0\mod003_.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamelife\Desktop\задачи\mod003_.md\obj\Debug\net6.0\mod003_.md.AssemblyInfoInputs.cache
+C:\Users\Gamelife\Desktop\задачи\mod003_.md\obj\Debug\net6.0\mod003_.md.AssemblyInfo.cs
+C:\Users\Gamelife\Desktop\задачи\mod003_.md\obj\Debug\net6.0\mod003_.md.csproj.CoreCompileInputs.cache
